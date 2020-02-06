@@ -1,0 +1,11 @@
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Triangle.deps.json
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Triangle.runtimeconfig.json
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Triangle.runtimeconfig.dev.json
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Triangle.dll
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Triangle.pdb
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Triangle.csprojAssemblyReference.cache
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Triangle.AssemblyInfoInputs.cache
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Triangle.AssemblyInfo.cs
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Triangle.dll
+C:\Users\ThanhSang\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Triangle.pdb
